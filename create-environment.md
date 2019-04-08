@@ -18,7 +18,7 @@ lastupdated: "2019-04-02"
 
 ## Prerequisites
 * Ensure that you are in the {{site.data.keyword.Bluemix_notm}} account where you want to create the environment.
-* Ensure that you have the correct [permissions](https://cloud.ibm.com/catalog/docs/cloud-foundry/permissions.html) before creating instances of the {{site.data.keyword.cfee_full_notm}}. 
+* Ensure that you have the correct [permissions](/docs/cloud-foundry?topic=cloud-foundry-permissions#permissions) before creating instances of the {{site.data.keyword.cfee_full_notm}}. 
 * [Prepare your IBM Cloud account](https://cloud.ibm.com/docs/cloud-foundry/prepare-account.html) to ensure that it can create the infrastructure resources necessary for a CFEE instance (CFEE instances are deployed into Kubernetes worker nodes from the Kubernetes Service).  
 
 ## Creating a CFEE instance

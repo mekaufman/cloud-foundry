@@ -26,7 +26,7 @@ subcollection: cloud-foundry
 # Your responsibilities by using {{site.data.keyword.cfee_full_notm}}
 {: #responsibilities-cfee}
 
-Learn about management responsibilities and terms and conditions that you have when you use {{site.data.keyword.cfee_full}}.
+Learn about management responsibilities and terms and conditions that you have when you use {{site.data.keyword.cfee_full}}. See [Cloud Services terms](/docs/overview/terms-of-use?topic=overview-terms) for overall terms of use.
 {:shortdesc}
 
 ## Management responsibilities
@@ -91,18 +91,4 @@ with IBM Cloud Identity and Access Management (IAM).
 
 - Use the provided tools and features to [manage the lifecycle of customer-owned applications](/docs/cloud-foundry?topic=cloud-foundry-getting-started#deploy-apps), [integrate with other services](/docs/cloud-foundry?topic=cloud-foundry-getting-started#bind-apps), and monitor the health of the application (for example, [Availability Monitoring](https://cloud.ibm.com/catalog/services/availability-monitoring)).
 
-## Abuse of {{site.data.keyword.cfee_full_notm}}
-{: #terms}
 
-Clients cannot misuse {{site.data.keyword.cfee_full}}.
-
-Misuse includes:
-- Any illegal activity
-- Distribution or execution of malware
-- Harming or interfering with the use of {{site.data.keyword.cfee_full}}
-- Harming or interfering with the use of any other service or system
-- Unauthorized access to any service or system
-- Unauthorized modification of any service or system
-- Violation of the personal rights of others
-
-See [Cloud Services terms](/docs/overview/terms-of-use?topic=overview-terms) for overall terms of use.
